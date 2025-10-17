@@ -66,7 +66,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install Project
 
-    $ git clone 
+    $ git clone https://github.com/nilaneela77-cyber/Employee-Review-System.git
     $ cd Employee-Review-System
     $ yarn install
 
